@@ -10,10 +10,8 @@ Here are some analytics projects I did as I prepared for the Austin FC interview
 - A basic Tableau dashboard.
 
 ## About Me
-
 I am xxx.
 
 ## Contact
-
 LinkedIn: [link]  
 GitHub: [link]  
