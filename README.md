@@ -7,7 +7,7 @@ Here are some analytics projects I did as I prepared for the Austin FC interview
 [Fan Lifecycle Analytics Dashboard](https://austin-fc.streamlit.app/)
 - A Python dashboard illustrating technical skills and a practical approach to segmentation analysis, while quantifying the impact of relevant initiatives.
 
-AI BI Analyst
+AI Business Intelligence Analyst
 
 https://github.com/brianpakho/brianpakho.github.io/raw/refs/heads/main/ai-slack-agent.mov
 
@@ -15,3 +15,8 @@ https://github.com/brianpakho/brianpakho.github.io/raw/refs/heads/main/ai-slack-
 
 [Matchday Dashboard](https://public.tableau.com/views/matchday_dashboard/Dashboard1)
 - A basic Tableau dashboard showcasing core Tableau proficiency.
+
+
+
+
+https://github.com/brianpakho/brianpakho.github.io/raw/refs/heads/main/ai-slack-agent.mov
