@@ -9,7 +9,7 @@ Here are some analytics projects I did as I prepared for the Austin FC interview
 
 [AI Business Intelligence Analyst](https://youtu.be/g0hSrnGYuWM)
 
-- A proof-of-concept to show a Slack-based AI agent with access to Austin FC's data can be used to expand the BI team's capacity and respond efficiently to BI questions across departments.
+- A proof-of-concept to show how a Slack-based AI agent with access to Austin FC's data can be used to expand the BI team's capacity and respond to BI requests across departments.
 
 [Matchday Dashboard](https://public.tableau.com/views/matchday_dashboard/Dashboard1)
 - A basic Tableau dashboard showcasing core Tableau proficiency.
