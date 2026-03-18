@@ -14,4 +14,4 @@ Here are some analytics projects I did as I prepared for the Austin FC interview
 - A basic Tableau dashboard showcasing core Tableau proficiency.
 
 Data Pipeline Exploration: Salesforce -> [Azure](https://raw.githubusercontent.com/brianpakho/brianpakho.github.io/refs/heads/main/azure_screenshot.png)/[Databricks](https://raw.githubusercontent.com/brianpakho/brianpakho.github.io/refs/heads/main/databricks_screenshot.png) -> [Power BI](https://drive.google.com/file/d/1hPg9ag8vn5rQxLsJN0LvdGPkflVIQBg5/view)
-- An attempt to mimic a possible Austin FC's data pipeline using Azure, Databricks & Power BI + simulated Salesforce data.
+- An attempt to mimic and explore a possible Austin FC's data pipeline using Azure, Databricks & Power BI + simulated Salesforce data.
