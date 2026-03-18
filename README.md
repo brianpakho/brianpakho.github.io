@@ -1,6 +1,6 @@
 # Brian Chan
 
-Here are analytics projects I built while exploring the Austin FC analyst role.
+Here are analytics projects I built while exploring the Austin FC BI analyst role.
 
 ## Projects
 
