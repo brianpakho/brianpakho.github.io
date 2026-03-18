@@ -13,5 +13,5 @@ Here are some analytics projects I did as I prepared for the Austin FC interview
 [Matchday Dashboard](https://public.tableau.com/views/matchday_dashboard/Dashboard1)
 - A basic Tableau dashboard showcasing core Tableau proficiency.
 
-Salesforce -> Azure -> Databricks -> Power BI
+Salesforce -> [Azure](https://raw.githubusercontent.com/brianpakho/brianpakho.github.io/refs/heads/main/azure_screenshot.png)/[Databricks](https://raw.githubusercontent.com/brianpakho/brianpakho.github.io/refs/heads/main/databricks_screenshot.png) -> [Power BI](https://drive.google.com/file/d/1hPg9ag8vn5rQxLsJN0LvdGPkflVIQBg5/view)
 - An attempt to mimic a potential Austin FC's BI workflow using Azure, Databricks & Power BI + simulated Salesforce data.
